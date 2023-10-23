@@ -1,2 +1,2 @@
 # trafficlight
-training machine learning model for traffic light color detection
+training a machine learning model to detect traffic light color to be used in iOS app that will help color blind people drive
